@@ -1,0 +1,75 @@
+div#title {
+  
+  width: 1903px;
+  height: 100%;
+  background-position: center;
+  min-height: 700px;
+  position: relative;
+  display: flex;
+  align-items: center;
+}
+div#title div.wrap {
+  
+}
+div#title .wrap .vid{
+
+}
+div#title .vid .wtr{
+
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  width: 1470px;
+  transform: translate(-50%,-50%);
+  border-radius: 50px;
+}
+div#title div.wrap div.tit{
+    
+  position: relative;
+  height: 100%;
+  width: 100%;
+}
+div#title div.wrap div.tit h2 {
+  
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+  color: #fff;
+  line-height: 1.2;
+}
+div#title div.wrap div.tit h2 span.block {
+  
+}
+div#title div.wrap div.tit ul.list {
+  
+  justify-content: center;
+  align-items: center;
+  display: flex;
+  position: absolute;
+  bottom: -272px;
+  right: -320px;
+}
+div#title div.wrap div.tit ul.list li {
+  
+  padding: 0 10px;
+}
+div#title div.wrap div.tit ul.list li a {
+  
+  color: white;
+}
+div#title div.wrap div.tit ul.scr {
+  
+  display: flex;
+  bottom: -272px;
+  position: absolute;
+  left: -306px;
+}
+div#title div.wrap div.tit ul.scr li {
+  
+}
+div#title div.wrap div.tit ul.scr li a {
+  
+  color: white;
+  font-size: 15px;
+}

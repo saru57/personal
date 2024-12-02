@@ -1,0 +1,61 @@
+/* font-style */
+.h1T{
+    font-size: 84px;
+  }
+  .h2T{
+    font-size: 74px;
+  }
+  .h3T{
+    font-size: 48px;
+  }
+  .h4T{
+    font-size: 36px;
+    /*! color: white; */
+  }
+  .h5T{
+    font-size: 24px;
+    /*! color: white; */
+  }
+  .h6T{
+    font-size: 16px;
+    /*! color: white; */
+  }
+  .smT{
+    font-size: 14px;
+    color: black;
+  }
+  .smT-2{
+    font-size: 12px;
+    font-weight: 500;
+    font-style: normal;
+    color: #555;
+  }
+  
+  
+  /* main */
+  body{
+    font-family: "Noto Sans KR", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: 400;
+    font-style: normal;
+  }
+  .wrap{
+    /*! width: 1440px; */
+    margin: 0 auto;
+  }
+  .h100{
+    height: 700px;
+    min-height: 700px;
+  }
+  .hide{
+    display: none;
+  }
+  .block{
+    display: block;
+  }
+  .flex{
+    display: flex;
+  }
+  .line{
+    line-height: 1.3;
+  }
