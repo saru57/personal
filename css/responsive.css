@@ -1,0 +1,46 @@
+@media screen and (max-width:768px){
+  /* common   */
+  .h1T {
+    font-size:calc(84px * 0.6);
+  }
+  .h3T {
+    font-size:calc(48px * 0.6);
+  }
+  .h4T {
+    font-size: calc(36px * 0.55);
+  }
+  .h6T {
+    font-size: calc(16px * 0.8);
+  }
+  .h100{
+    
+  min-height: auto;
+  }
+  /*  header  */
+  header{
+    
+  }
+  header nav{
+    
+  }
+  header nav h1 a{
+    
+  width: 80px;
+  height: 80px;
+  }
+  header nav ul{
+    
+  }
+  header nav ul li a{
+    
+  }
+/*  title    */
+  div#title{
+    
+  width: 408px;
+  }
+  div#title div.wrap div.tit h2{
+    
+  font-size: 35px;
+  }
+}

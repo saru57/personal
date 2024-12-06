@@ -1,0 +1,56 @@
+#contact{
+
+  height: calc(100vh - 44.8px);
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+}
+#contact .wrap{
+    
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+#contact .wrap h2.h2T{
+    
+  opacity: 0.9;
+  width: 600px;
+  margin-right: 20px;
+  background-color: #d8ebfbe0;
+  text-align: center;
+  height: 300px;
+  border-radius: 50px 0 50px 0;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  row-gap: 12px;
+  color: #2E587E;
+}
+#contact .wrap ul.add{
+    
+  width: 600px;
+  background-color: #d8ebfbe0;
+  text-align: end;
+  height: 300px;
+  border-radius: 50px 0 50px 0;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+#contact .wrap ul.add li{
+    
+}
+#contact .wrap ul.add li a{
+    
+  line-height: 2;
+  font-size: 20px;
+  opacity: 0.9;
+  color: #243C52;
+}
+#contact .wrap ul.add li a.e{
+
+}
+#contact .wrap ul.add li a.n{
+    
+}
